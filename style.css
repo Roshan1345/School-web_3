@@ -1,0 +1,86 @@
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+body {
+    text-align: center;
+    
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+
+.img-responsive {
+    text-align: right;
+    
+}
+
+
+
+
+
+
+
+
+.travel_mainDiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+
+.travel_mainDiv hr {
+    width: 100%;
+}
+
+.travel_mainDiv h5,
+.trave;
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.environment_li{
+    margin-top: 13px;
+}
+
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li p
+{
+  margin-top:10px;
+}
